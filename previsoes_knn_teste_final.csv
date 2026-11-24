@@ -1,0 +1,17 @@
+aplicacao,arquivo_ves,arquivo_pbs,registrada,prevista,voto_hcc_pct,acerto
+01,TF01_HCC_eletrodo7.txt,P01_eletrodo7.txt,HCC1806,MCF10A,27.53518708,False
+02,TF02_MCF_eletrodo7.txt,P02_eletrodo7.txt,MCF10A,MCF10A,17.57724598,True
+03,TF03_HCC_eletrodo7.txt,P03_eletrodo7.txt,HCC1806,HCC1806,59.22571673,True
+04,T04_MCF_eletrodo7.txt,P04_eletrodo7.txt,MCF10A,HCC1806,100.00000000,False
+05,TF05_MCF_eletrodo7.txt,P05_eletrodo7.txt,MCF10A,HCC1806,82.05359663,False
+06,T06_HCC_eletrodo7.txt,P06_eletrodo7.txt,HCC1806,HCC1806,56.03557914,True
+07,T07_HCC_eletrodo7.txt,P07_eletrodo7.txt,HCC1806,MCF10A,38.85906248,False
+08,TF08_MCF_eletrodo7.txt,P08_eletrodo7.txt,MCF10A,HCC1806,64.42803564,False
+09,TF09_MCF_eletrodo7.txt,P09_eletrodo7.txt,MCF10A,HCC1806,66.20180241,False
+10,TF10_HCC_eletrodo7.txt,P10_eletrodo7.txt,HCC1806,HCC1806,100.00000000,True
+11,TF11_MCF_eletrodo7.txt,P11_eletrodo7.txt,MCF10A,MCF10A,0.00000000,True
+12,TF12_HCC_eletrodo7.txt,P12_eletrodo7.txt,HCC1806,HCC1806,84.98385334,True
+13,TF13_HCC_eletrodo7.txt,P13_eletrodo7.txt,HCC1806,MCF10A,32.15645270,False
+14,TF14_MCF_eletrodo7.txt,P14_eletrodo7.txt,MCF10A,MCF10A,44.40354255,True
+15,TF15_MCF_eletrodo7.txt,P15_eletrodo7.txt,MCF10A,MCF10A,40.02708826,True
+16,TF16_HCC_eletrodo7.txt,P16_eletrodo7.txt,HCC1806,HCC1806,63.06501970,True
